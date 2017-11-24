@@ -20,6 +20,7 @@ Get in directory
 Give Access Permission for install.sh
 
 > chmod 777 install.sh
+
 > chmod 777 Garuda-WebScan.sh
 
 And Then Install it
