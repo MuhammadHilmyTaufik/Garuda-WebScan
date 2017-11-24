@@ -10,7 +10,7 @@ mkdir Target
 
 
 
-##AppInstaller
+##WebAppInstaller
 
 #nmap
 apt-get install nmap -y
